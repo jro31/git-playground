@@ -1,2 +1,3 @@
 First commit
 Second (master) commit
+Third master commit
